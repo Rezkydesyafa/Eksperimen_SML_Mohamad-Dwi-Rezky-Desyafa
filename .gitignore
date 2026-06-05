@@ -1,0 +1,16 @@
+# MLflow runs (terlalu besar)
+mlruns/
+
+# Model artifacts besar
+Membangun_model/artifacts/
+Monitoring dan Logging/best_model.pkl
+Monitoring dan Logging/preprocessor.pkl
+Monitoring dan Logging/feature_columns.json
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
