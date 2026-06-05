@@ -1,0 +1,10 @@
+Classification Report
+============================================================
+                 precision    recall  f1-score   support
+
+         Normal       0.99      0.99      0.99      1932
+Machine Failure       0.76      0.65      0.70        68
+
+       accuracy                           0.98      2000
+      macro avg       0.87      0.82      0.84      2000
+   weighted avg       0.98      0.98      0.98      2000
